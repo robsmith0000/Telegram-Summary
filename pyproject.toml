@@ -1,0 +1,7 @@
+[project]
+name = "telegramsummary"
+version = "0.1.0"
+description = "Telegram Group Chat Summarizer"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
