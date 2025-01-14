@@ -4,4 +4,7 @@ version = "0.1.0"
 description = "Telegram Group Chat Summarizer"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "openai>=1.59.7",
+    "tiktoken>=0.8.0",
+]

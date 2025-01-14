@@ -1,0 +1,11 @@
+# Ignore everything in Chats directory
+Chats/*
+
+# Ignore everything in Data directory
+Data/*
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
